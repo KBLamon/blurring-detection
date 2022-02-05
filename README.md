@@ -1,0 +1,2 @@
+# blurring-detection
+machine learning
